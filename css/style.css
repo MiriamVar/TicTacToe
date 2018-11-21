@@ -1,9 +1,13 @@
 .mainDiv{
 	margin: auto;
 	background: lightgray;
-	width: 660px;
-	padding-top: 30px;
+	width: 600px;
+	height: 600px;
 }
-table {
-	margin: auto;
+.poleDiv{
+	background: white;
+	width: 180px;
+	height: 180px;
+	float: left;
+	margin: 10px;
 }
